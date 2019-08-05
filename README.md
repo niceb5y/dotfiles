@@ -1,3 +1,5 @@
 # dotfiles
 
-My dotfiles for macOS
+My dotfiles for macOS 
+
+![Screenshot](./screenshot.png)
